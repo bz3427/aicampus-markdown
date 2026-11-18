@@ -101,13 +101,13 @@ markup과 markdown 모두 효과가 있습니다.
 [보여줄 글자](연결할 주소)
 '''
 
-- [파이썬 홈페이지](https://www.python.org/).
-- [(https://www.python.org/).](https://www.python.org/).
+- [파이썬 홈페이지](https://www.python.org/)
+- [(https://www.python.org/).](https://www.python.org/)
 - https://www.python.org/>
 
 같은 저장소의 문서는 '상대경로'를 이용해서 접근할 수 있습니다.
 
--[테스트 문서](./dummy/test.md).
+-[테스트 문서](./dummy/test.md)
 
 # 이미지(image)
 
