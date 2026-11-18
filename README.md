@@ -101,6 +101,20 @@ markup과 markdown 모두 효과가 있습니다.
 [보여줄 글자](연결할 주소)
 '''
 
-표시 예시는 다음과 같습니다.
-- [파이썬 홈페이지](https://www.python.org/)
-- <https://www.python.org/>
+- [파이썬 홈페이지](https://www.python.org/).
+- [(https://www.python.org/).](https://www.python.org/).
+- https://www.python.org/>
+
+같은 저장소의 문서는 '상대경로'를 이용해서 접근할 수 있습니다.
+
+-[테스트 문서](./dummy/test.md).
+
+# 이미지(image)
+
+이미지는 링크 앞에 '!'만 추가하면 됩니다.
+
+단, 주소의 대상이 반드시 이미지여야 합니다. (아니면 엑박이 나옵니다)
+
+내가 가진 이미지, 남이 가진 이미지 모두 표시가 가능합니다.
+
+![카카오라이언].(https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAyMTdfNTcg%2FMDAxNDg3MzE5MTE2MTEw.lqTH1QxNEdD1F5xEzDrYdU3xwwEOWc6IyxVOEOC6XC0g.bzYlXQ5DEr0aNu4fRkCyWqTolVU2BjTYx4arnSYBppgg.PNG.cgy5742%2Flion_5.PNG&type=a340)
