@@ -122,3 +122,7 @@ markup과 markdown 모두 효과가 있습니다.
 '''
 
 ![카카오라이언].(https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAyMTdfNTcg%2FMDAxNDg3MzE5MTE2MTEw.lqTH1QxNEdD1F5xEzDrYdU3xwwEOWc6IyxVOEOC6XC0g.bzYlXQ5DEr0aNu4fRkCyWqTolVU2BjTYx4arnSYBppgg.PNG.cgy5742%2Flion_5.PNG&type=sc960_832)
+
+깃허브는 이미지를 복사해서 붙여넣어도 임시로 업로드해서 주소를 만들어 줍니다.
+
+<img width="498" height="284" alt="image" src="https://github.com/user-attachments/assets/eb66834d-8572-4d4c-a751-532e1fa4605d" />
