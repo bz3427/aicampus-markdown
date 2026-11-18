@@ -102,4 +102,5 @@ markup과 markdown 모두 효과가 있습니다.
 '''
 
 표시 예시는 다음과 같습니다.
-- [파이썬 홈페이지](https://www.python.org)
+- [파이썬 홈페이지](https://www.python.org/)
+- <https://www.python.org/>
